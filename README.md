@@ -1,0 +1,80 @@
+# GitHub 开源免费 WordPress 中文主题收集
+
+本项目旨在整理 GitHub 上优秀的开源、免费 WordPress 中文主题，方便博主和开发者寻找合适的主题。
+
+> **注意**：部分主题可能包含付费的高级版，但本列表仅收录其开源免费版本。请在使用前仔细阅读各主题的协议和说明。
+
+## 主题列表
+
+### [Less](https://github.com/xzmhxdxh/Less)
+![Less 预览](https://camo.githubusercontent.com/3abe9d13e89c95fccec07957290fc169ce58b89ffcb0ad9786af64394230cdea/68747470733a2f2f6c6573732d7468656d652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032352f31322f64656d6f2d7363616c65642e706e67)
+> **简介**: 一款轻量级 WordPress 主题，追求简单、极速性能，基于 Tailwind CSS 构建。  
+> **最近更新**: 2025-12-29  
+> **演示**: [点击查看](https://less-theme.com/)
+
+---
+
+### [Puock](https://github.com/Licoy/wordpress-theme-puock)
+![Puock 预览](https://github.com/Licoy/wordpress-theme-puock/raw/master/screenshot.png)
+> **简介**: 一款高颜值的自适应 WordPress 主题，支持白天/黑夜模式、无刷新加载、第三方登录等功能。  
+> **最近更新**: 2026-02-04  
+> **演示**: [点击查看](https://licoy.cn/)
+
+---
+
+### [Argon](https://github.com/solstice23/argon-theme)
+![Argon 预览](https://camo.githubusercontent.com/c2acdf71db6d934a359f1a29854fb6bc2ca34e75aa5980c5c86310f0891fc3a1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f736f6c737469636532332f63646e406d61737465722f6172676f6e2d72656e6465722d736d616c6c2d332e6a7067)
+> **简介**: 轻盈、简洁、美观的主题，高度可定制化，支持日夜间模式、Pjax 无刷新加载等。  
+> **最近更新**: 2026-01-22  
+> **演示**: [点击查看](https://archive-blog.s23.moe/)
+
+---
+
+### [Sakurairo](https://github.com/mirai-mamori/Sakurairo)
+![Sakurairo 预览](https://jsdelivr.2heng.xin/gh/moezx/cdn@3.3.5/img/other/sakura-features/sakura%20%281%29.png?thumb=_tn#width-full)
+> **简介**: 基于 Sakura 主题的二次开发版本，色彩丰富，易于上手，功能完善。  
+> **最近更新**: 2026-01-19  
+> **演示**: [点击查看](https://iro.tw/demo.html)
+
+---
+
+### [Kratos](https://github.com/Vtrois/Kratos)
+![Kratos 预览](https://github.com/seatonjiang/kratos/raw/main/assets/img/options/about.png)
+> **简介**: 专注于阅读体验的响应式博客主题，简洁大方，速度快。  
+> **最近更新**: 2025-11-17  
+> **演示**: [点击查看](https://www.nbmao.com/)
+
+---
+
+### [OneNice](https://github.com/xenice/onenice)
+![OneNice 预览](https://raw.githubusercontent.com/xenice/onenice/master/screenshot.png)
+> **简介**: 超级简洁的 WordPress 主题，无任何加密和冗余代码，支持中英文。  
+> **最近更新**: 2025-12-12  
+> **演示**: [点击查看](https://www.xenice.com/zh/onenice/)
+
+---
+
+### [MDx](https://github.com/yrccondor/mdx)
+![MDx 预览](https://camo.githubusercontent.com/805faa55475bc2893a05a08ca6460733ed26d51cde03e90b6a2bfe6075467875/68747470733a2f2f6163646e2e666c796869676865722e746f702f6d64782d323032302d6e65772e6a7067)
+> **简介**: 遵循 Material Design 风格，功能强大，轻量且快速。  
+> **最近更新**: 2024-08-09  
+> **演示**: [点击查看](https://flyhigher.top/)
+
+---
+
+### [CorePress](https://github.com/ghboke/CorePressWPTheme)
+![CorePress 预览](https://github.com/ghboke/CorePressWPTheme/raw/main/screenshot/corepress4jsbanner.webp)
+> **简介**: 深度优化，体积小，性能强，专为极客制作的多功能主题。  
+> **最近更新**: 2022  
+> **演示**: -
+
+## 贡献
+
+欢迎提交 Pull Request 补充更多优秀的开源免费 WordPress 中文主题！请确保推荐的主题满足以下条件：
+1. 托管在 GitHub 上。
+2. 或者是开源且免费的。
+3. 支持中文。
+
+## 免责声明
+
+本列表仅作收集整理，主题的安全性和稳定性请自行评估。
