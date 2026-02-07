@@ -54,6 +54,14 @@
 
 ---
 
+### [niRvana](https://github.com/michaelliunsky/niRvana-theme)
+![niRvana 预览](https://raw.githubusercontent.com/michaelliunsky/niRvana-theme/master/screenshot.png)
+> **简介**: 轻拟物 WordPress 主题，HTML5/CSS3，响应式，支持语音朗读，深色模式等。  
+> **最近更新**: 2025-08-29  
+> **演示**: [点击查看](https://blog.mkliu.top/)
+
+---
+
 ### [Document](https://github.com/friend-nicen/theme-document)
 ![Document 预览](https://raw.githubusercontent.com/friend-nicen/theme-document/master/screenshot.png)
 > **简介**: 一个基于文档类型的博客主题，更加方便的记录、查询学习笔记。  
