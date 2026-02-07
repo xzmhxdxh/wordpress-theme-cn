@@ -38,6 +38,14 @@
 
 ---
 
+### [OneNice](https://github.com/xenice/onenice)
+![OneNice 预览](https://raw.githubusercontent.com/xenice/onenice/master/screenshot.png)
+> **简介**: 超级简洁的 WordPress 主题，无任何加密和冗余代码，支持中英文。  
+> **最近更新**: 2025-12-12  
+> **演示**: [点击查看](https://www.xenice.com/zh/onenice/)
+
+---
+
 ### [Kratos](https://github.com/Vtrois/Kratos)
 ![Kratos 预览](https://github.com/seatonjiang/kratos/raw/main/assets/img/options/about.png)
 > **简介**: 专注于阅读体验的响应式博客主题，简洁大方，速度快。  
@@ -46,11 +54,11 @@
 
 ---
 
-### [OneNice](https://github.com/xenice/onenice)
-![OneNice 预览](https://raw.githubusercontent.com/xenice/onenice/master/screenshot.png)
-> **简介**: 超级简洁的 WordPress 主题，无任何加密和冗余代码，支持中英文。  
-> **最近更新**: 2025-12-12  
-> **演示**: [点击查看](https://www.xenice.com/zh/onenice/)
+### [Lolimeow](https://github.com/baomihuahua/lolimeow)
+![Lolimeow 预览](https://www.boxmoe.com/wp-content/uploads/2021/02/59ddf9a3d657fe9f56544e1ebb1f104b.png)
+> **简介**: 一款二次元风格的 WordPress 主题，支持暗黑模式、3模切换、会员中心、图片懒加载等功能。  
+> **最近更新**: 2025-03-18  
+> **演示**: [点击查看](https://www.boxmoe.com/)
 
 ---
 
