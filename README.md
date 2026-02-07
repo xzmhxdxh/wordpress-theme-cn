@@ -31,7 +31,7 @@
 ---
 
 ### [Sakurairo](https://github.com/mirai-mamori/Sakurairo)
-![Sakurairo 预览](https://jsdelivr.2heng.xin/gh/moezx/cdn@3.3.5/img/other/sakura-features/sakura%20%281%29.png?thumb=_tn#width-full)
+![Sakurairo 预览](https://camo.githubusercontent.com/9c64215fa7ad432331de6091a8610fe36d4965bd28bd7fecc74ded5c1297b511/68747470733a2f2f6a7364656c6976722e3268656e672e78696e2f67682f6d6f657a782f63646e40332e332e352f696d672f6f746865722f73616b7572612d66656174757265732f73616b757261253230253238312532392e706e673f7468756d623d5f746e2377696474682d66756c6c)
 > **简介**: 基于 Sakura 主题的二次开发版本，色彩丰富，易于上手，功能完善。  
 > **最近更新**: 2026-01-19  
 > **演示**: [点击查看](https://iro.tw/demo.html)
@@ -54,8 +54,16 @@
 
 ---
 
+### [WebStack](https://github.com/owen0o0/WebStack)
+![WebStack 预览](https://camo.githubusercontent.com/fe070e8a7ce96a3d0edcd237676bc32d34e8a115f6220f4aa54992b511d76552/68747470733a2f2f6f77656e306f302e6769746875622e696f2f696f5374617469635265736f75726365732f776562737461636b2f30312e706e67)
+> **简介**: WordPress 版 WebStack 导航主题，适合做网址导航网站。  
+> **最近更新**: 2025-04-01  
+> **演示**: [点击查看](https://webstack.iotheme.cn/)
+
+---
+
 ### [Lolimeow](https://github.com/baomihuahua/lolimeow)
-![Lolimeow 预览](https://www.boxmoe.com/wp-content/uploads/2021/02/59ddf9a3d657fe9f56544e1ebb1f104b.png)
+![Lolimeow 预览](https://camo.githubusercontent.com/73a29fa59a843a1889e7e481daa7b5d790d354d8b6ce8f6c632c8163bd34b3b3/68747470733a2f2f7777772e626f786d6f652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f35396464663961336436353766653966353635343465316562623166313034622e706e67)
 > **简介**: 一款二次元风格的 WordPress 主题，支持暗黑模式、3模切换、会员中心、图片懒加载等功能。  
 > **最近更新**: 2025-03-18  
 > **演示**: [点击查看](https://www.boxmoe.com/)
