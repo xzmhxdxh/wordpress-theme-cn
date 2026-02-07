@@ -38,6 +38,14 @@
 
 ---
 
+### [Yowao](https://github.com/aihubpro/yowao)
+![Yowao 预览](https://raw.githubusercontent.com/aihubpro/yowao/main/bg.png)
+> **简介**: 极速 · 安全 · 高颜值 —— 专为国人打造的极客导航主题。独特的“棱镜”视觉风格，集成银行级 CSRF 安全防护。  
+> **最近更新**: 2026-01-13  
+> **演示**: [点击查看](https://www.yowao.com/)
+
+---
+
 ### [OneNice](https://github.com/xenice/onenice)
 ![OneNice 预览](https://raw.githubusercontent.com/xenice/onenice/master/screenshot.png)
 > **简介**: 超级简洁的 WordPress 主题，无任何加密和冗余代码，支持中英文。  
