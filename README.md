@@ -54,6 +54,14 @@
 
 ---
 
+### [Document](https://github.com/friend-nicen/theme-document)
+![Document 预览](https://raw.githubusercontent.com/friend-nicen/theme-document/master/screenshot.png)
+> **简介**: 一个基于文档类型的博客主题，更加方便的记录、查询学习笔记。  
+> **最近更新**: 2025-04-25  
+> **演示**: [点击查看](https://nicen.cn/1552.html)
+
+---
+
 ### [WebStack](https://github.com/owen0o0/WebStack)
 ![WebStack 预览](https://camo.githubusercontent.com/fe070e8a7ce96a3d0edcd237676bc32d34e8a115f6220f4aa54992b511d76552/68747470733a2f2f6f77656e306f302e6769746875622e696f2f696f5374617469635265736f75726365732f776562737461636b2f30312e706e67)
 > **简介**: WordPress 版 WebStack 导航主题，适合做网址导航网站。  
