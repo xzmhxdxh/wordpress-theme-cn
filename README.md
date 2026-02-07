@@ -62,6 +62,14 @@
 
 ---
 
+### [Once](https://github.com/HUiTHEME/Once)
+![Once 预览](https://raw.githubusercontent.com/HUiTHEME/Once/master/screenshot.png)
+> **简介**: 一款满足绝大部分人群需求的博客主题，正如其名，一旦拥有，别无他求。  
+> **最近更新**: 2025-06-11  
+> **演示**: [点击查看](https://www.huitheme.com/once-theme.html)
+
+---
+
 ### [Document](https://github.com/friend-nicen/theme-document)
 ![Document 预览](https://raw.githubusercontent.com/friend-nicen/theme-document/master/screenshot.png)
 > **简介**: 一个基于文档类型的博客主题，更加方便的记录、查询学习笔记。  
