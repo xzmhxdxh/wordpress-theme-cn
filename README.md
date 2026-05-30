@@ -96,6 +96,15 @@
 
 ---
 
+### [Puma](https://github.com/bigfa/Puma)
+![Puma 预览](assets/previews/puma.png)
+> **简介**: 一款简洁的单栏 WordPress 主题，适合个人博客，支持响应式设计、多种文章格式、Ajax 评论提交等功能。  
+> **最近更新**: 2025-08-26  
+> **演示**: [点击查看](https://fatesinger.com/76733)
+> **仓库**: [点击查看](https://github.com/bigfa/Puma)
+
+---
+
 ### [Document](https://github.com/friend-nicen/theme-document)
 ![Document 预览](assets/previews/document.png)
 > **简介**: 一个基于文档类型的博客主题，更加方便的记录、查询学习笔记。  
